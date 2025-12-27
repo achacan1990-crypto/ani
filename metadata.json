@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MotionFlow AI",
+  "description": "Premium AI motion transfer platform that animates static characters using reference video motion, powered by Gemini Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
